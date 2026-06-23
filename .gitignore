@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Gradio
+.gradio/
+flagged/
+
+# NLTK data (downloaded at runtime)
+nltk_data/
+
+# Note: hw5.encoder, hw5.decoder, and train.txt are intentionally NOT ignored.
+# Add them to the repo manually (or keep them local) so the app can run.
